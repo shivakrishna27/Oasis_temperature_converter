@@ -1,0 +1,40 @@
+.bg-container{
+    background-image: url("https://tse3.mm.bing.net/th?id=OIP.mhphrwSG_xAFthWfJY4qxAHaET&pid=Api&P=0&h=180");
+    background-size: cover;
+    height: 100vh;
+ }
+ .body{
+    padding: 50px;
+ }
+ 
+ .kelvin-container{
+    font-size: 35px;
+    color: rgb(55, 27, 239);
+}
+
+
+.Fahrenheit-container{
+    font-size: 35px;
+    color:rgb(57, 29, 239);
+}
+
+.celcius-container{
+    font-size: 35px;
+    color:rgb(42, 25, 222);
+}
+
+.input-temp{
+border-radius: 120px;
+height: 60px;
+width: 250px;
+background-color: rgb(240, 237, 50);
+}
+
+.main-head{
+    color: rgb(47, 43, 43);
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(239, 21, 21);
+    font-family: sans-serif;
+
+}
